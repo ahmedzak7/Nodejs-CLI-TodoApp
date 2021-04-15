@@ -1,0 +1,18 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Light weight TodoApp for Nodejs Course ITI",
+  "main": "app.js",
+  "keywords": [
+    "Nodejs",
+    "todo",
+    "app",
+    "javascript"
+  ],
+  "author": "Ahmed Zakaria",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
