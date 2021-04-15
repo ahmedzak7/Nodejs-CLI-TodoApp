@@ -4,6 +4,7 @@ CLI Todo App With Nodejs
 ---
 ## Command
 - [Create](#create)
+- [Edit](#edit)
 - [List](#list)
 - [Show](#show)
 - [Remove](#remove)
